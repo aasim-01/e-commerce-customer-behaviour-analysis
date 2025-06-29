@@ -36,24 +36,4 @@ A one-page summary of insights and business recommendations is included in the `
 
 ---
 
-## 💼 About Me
 
-**Aasim**  
-MBA in Global Business | Aspiring Business Analyst  
-
----
-
-## 📌 How to Use This Repo
-
-1. Download the raw dataset from the `data/` folder
-2. Explore Excel-based pivots in `excel_analysis/`
-3. Open the interactive dashboard (`.twbx`) in Tableau
-4. Read the insights summary PDF in `docs/`
-
----
-
-## 📬 Contact
-
-Feel free to explore, use, or fork this project for learning purposes or as a Business Analyst portfolio sample.
-
----
